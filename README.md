@@ -1,0 +1,1 @@
+# mandarake_email_alert_viewer
